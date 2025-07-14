@@ -20,6 +20,6 @@
 - Boas práticas com `input()` e `if/elif/else`
 
 ## 📫 Como me encontrar:
-- Email: seuemail@gmail.com
+- Email: vieirakellyton@gmail.com ou vkellyton@gmail.com
 - LinkedIn: [linkedin.com/in/kellytonsilva](https://linkedin.com/in/kellytonsilva)
 
