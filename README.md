@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Kellyton Vieira
 
-<!--
-**kellytonv/kellytonv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Buscando me tornar um programador de excelência para ajudar o mundo com soluções tecnológicas.
 
-Here are some ideas to get you started:
+💻 Atualmente estudando: **Python, Git e lógica de programação**  
+🚀 Interesses: **Web, automação, IA, segurança da informação**  
+📚 Em constante aprendizado, focando em práticas e projetos reais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Kellyton GitHub stats](https://github-readme-stats.vercel.app/api?username=kellytonvieira&show_icons=true&theme=dracula)
+
+## 🚀 Projetos em destaque
+- 🔧 Projeto de cadastro de clientes em Python
+- 📂 Exportação de dados `.txt`
+- 🎮 Joguinho de adivinhação em Python
+
+## 🌱 Aprendizados recentes
+- Uso de listas e dicionários em Python
+- Estrutura de repetição `while` e `for`
+- Boas práticas com `input()` e `if/elif/else`
+
+## 📫 Como me encontrar:
+- Email: seuemail@gmail.com
+- LinkedIn: [linkedin.com/in/kellytonsilva](https://linkedin.com/in/kellytonsilva)
+
